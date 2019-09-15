@@ -1,8 +1,7 @@
 # masters-free-theme-freelance
-Бесплатный базовый шаблон «Masters» фриланс-биржи на базе css-фреймворка Bootstrap 4 для сайта на Cotonti.
-Бесплатный базовый шаблон «Masters» фриланс-биржи на базе css-фреймворка Bootstrap 4 для сайта на Cotonti.
+<strong>Бесплатный базовый <a href="http://freelance-script.abuyfile.com/template-masters-free/">шаблон «Masters» фриланс-биржи</a> на базе css-фреймворка Bootstrap 4 для сайта на Cotonti.</strong>
 
-Тема включает в свой состав основные шаблоны модулей биржи услуг и фриланса на Cotonti: Projects, Market, Folio.
+Тема включает в свой состав основные шаблоны <a href="http://freelance-script.abuyfile.com/category/modules/" target="_blank" rel="noopener noreferrer">модулей биржи услуг и фриланса</a> на Cotonti: <a href="http://freelance-script.abuyfile.com/modules-projects/">Projects</a>, <a href="http://freelance-script.abuyfile.com/modules-market/">Market</a>, <a href="http://freelance-script.abuyfile.com/portfolio/">Folio</a>.
 Главная страница фриланс сайта биржи услуг оформлена в виде лэндинга (посадочной страницы).
 
 Порядок установки:
